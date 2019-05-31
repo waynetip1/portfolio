@@ -2,37 +2,35 @@
 .container-fluid {
   padding: 1% 15%;
 }
-.navbar{
+.navbar {
   padding: 0 0 0 0;
 }
-.navbar-brand{
+.navbar-brand {
   width: 80px;
   padding-left: 1rem;
 }
-.nav-link{
-  font-family: 'Roboto', sans-serif;
-
+.nav-link {
+  font-family: "Roboto", sans-serif;
 }
-.nav-item{
+.nav-item {
   padding: 0 18px;
-  font-size: .9rem;
-
+  font-size: 0.9rem;
 }
 /* jumbotron */
-.jumbotron{
+.jumbotron {
   background-color: #222831;
   position: relative;
-    overflow: hidden;
-    height: auto;
+  overflow: hidden;
+  height: auto;
 }
-.jumbo-text{
+.jumbo-text {
   position: relative;
   z-index: 2;
   padding-top: 60px;
   text-align: center;
 }
 
-#video-background{
+#video-background {
   position: absolute;
   height: auto;
   width: auto;
@@ -44,44 +42,50 @@
   transform: translate3d(-50%, -50%, 0);
   z-index: 1;
 }
-.name{
-  font-family: 'Abril Fatface', cursive;
+.name {
+  font-family: "Abril Fatface", cursive;
   font-weight: 500;
   font-size: 8vw;
   color: #00adb5;
 }
-.subheading{
-  font-family: 'Roboto', sans-serif;
+.subheading {
+  font-family: "Roboto", sans-serif;
   font-size: 4vw;
   color: #eeeeee;
 }
 /* jumbo button */
-.btn:hover{
+.btn:hover {
   background-color: #00adb5;
 }
-.btn-outline-secondary{
+.btn-outline-secondary {
   color: #eeeeee;
   border-color: #00adb5;
 }
-.card-footer{
+.card-footer {
   text-align: center;
-
 }
-.icons{
+.icons {
   color: #222831;
   text-align: center;
 }
 
-.projects{
-  font-family: 'Roboto',sans-serif;
-  padding-top:100px;
-  margin-top:-100px;
+.projects {
+  font-family: "Roboto", sans-serif;
+  padding-top: 100px;
+  margin-top: -100px;
   padding-left: 3%;
   padding-right: 3%;
 }
-.card-title{
+.card-title {
   font-weight: bold;
 }
-.row{
+.row {
   padding: 0 5%;
+}
+
+.section-title {
+  text-align: center;
+  font-family: "Abril Fatface" cursive;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
 }
