@@ -89,3 +89,46 @@
   padding-top: 5rem;
   padding-bottom: 3rem;
 }
+
+.first-box {
+  padding: 0px;
+  background: #6cc;
+  border-right: solid white;
+  border-bottom: solid white;
+  border-width: 1px;
+}
+.second-box {
+  padding: 0px;
+  background: #6cc;
+  border-right: solid white;
+  border-bottom: solid white;
+  border-width: 1px;
+}
+.third-box {
+  padding: 0px;
+  background: #6cc;
+  border-right: solid white;
+  border-bottom: solid white;
+  border-width: 1px;
+}
+.fourth-box {
+  padding: 0px;
+  background: #6cc;
+}
+
+.tool-img {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn-contact {
+  margin-bottom: 10px;
+}
+
+.tool-title {
+  text-align: center;
+}
+.contact-link {
+  color: black;
+}
